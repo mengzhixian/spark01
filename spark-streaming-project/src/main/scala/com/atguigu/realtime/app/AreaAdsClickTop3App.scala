@@ -46,6 +46,7 @@ object AreaAdsClickTop3App extends APP {
 
         // 关闭到redis的连接
         client.close()
+        //31321
       })
     })
   }
