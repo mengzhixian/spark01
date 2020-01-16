@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mock-data" />
+        <module name="spark-core" />
+        <module name="spark-practice" />
+        <module name="spark-sqlproject" />
+        <module name="spark-straming" />
+        <module name="spark-streaming-project" />
+        <module name="sparkcoreproject" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
